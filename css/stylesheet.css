@@ -1,0 +1,309 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-size;
+}
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding:0 15px;
+}
+.top-info{
+	background-color:#000;	
+}
+.flex-info{
+	display:flex;
+	justify-content:space-between;
+}
+.info{
+	background-color:red;
+	width:40%;
+	height:40px;
+}
+.lang{
+	background-color:red;
+	width:20%;
+	height:40px;
+}
+/*---------nav--------------*/
+.nav-sec{
+	padding:20px 0;
+}
+.nav-info{
+	display:flex;
+	justify-content:space-between;
+}
+.nav-name{
+	background-color:red;
+	width:20%;
+	height:40px;
+}
+.nav-link{
+	background-color:red;
+	width:50%;
+	height:40px;
+}
+.nav-button{
+	background-color:red;
+	width:20%;
+	height:40px;
+}
+/*-------------banner----------*/
+.banner-sec{
+	background-color:#000;
+	
+	padding:60px 0;
+}
+.banner-info{
+	background-color:red;
+	width:80%;
+	height:300px;
+}
+.banner-icon{
+	
+}
+/*--------------about------------*/
+.abt-sec{
+	background-color:gray;
+	padding:40px 0;
+}
+.abt-info{
+	display:flex;
+	justify-content:space-between;
+}
+.abt-content{
+	background-color:red;
+	width:45%;
+	height:350px;
+}
+.abt-img{
+	background-color:red;
+	width:45%;
+	height:350px;
+}
+/*----------choose---------*/
+.choose-sec{
+	background-color:black;
+	padding:20px 0;
+}
+.choose-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+
+}
+.choose-content{
+	display:flex;
+	justify-content:space-between;
+	padding:30px 0;
+}
+.choose-item{
+	background-color:red;
+	width:30%;
+	height:250px;
+}
+/*-------------menu-------------*/
+.menu-sec{
+	background-color:gray;
+	padding:50px 0;
+}
+.menu-title{
+	background-color:red;
+	width:70%;
+	height:50px;
+}
+.menu-list{
+	padding:30px;
+	display:flex;
+	flex-flow:row wrap;
+}
+.menu-item{
+	background-color:red;
+	width:45%;
+	height:60px;
+	margin:20px;
+}
+/*---------------check--------------*/
+.check-sec{
+	background-color:black;
+	padding:60px 0;
+}
+.check-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+}
+.check-info{
+	display:flex;
+	padding:20px;
+}
+.check-content{
+	background-color:red;
+	width:30%;
+	height:250px;
+	margin:20px;
+}
+.check-id{
+	background-color:red;
+	width:60%;
+	height:250px;
+	margin:20px;
+}
+/*----------------evant-------------*/
+.evant-sec{
+	background-color:gray;
+	padding:60px 0;
+}
+.evant-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+}
+.evant-info{
+	display:flex;
+}
+.evant{
+	background-color:red;
+	width:50%;
+	height:400px;
+	margin:20px;
+}
+.evant-content{
+	background-color:red;
+	width:50%;
+	height:400px;
+	margin:20px;
+}
+/*-------------booking-----------*/
+.booking-sec{
+	background-color:black;
+	padding:60px 0;
+}
+.booking-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+}
+.booking-info{
+	background-color:red;
+	width:90%;
+	height:400px;
+	margin:30px;
+}
+/*---------------style-------------*/
+.style-sec{
+	background-color:gray;
+	padding:60px 0;
+}
+.style-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+	margin:30px 0;
+}
+.style-info{
+	display:flex;
+	justify-content:space-between;
+}
+.style-content{
+	background-color:red;
+	width:30%;
+	height:300px;
+	
+}
+/*---------------image--------------*/
+.image-sec{
+	background-color:black;
+	padding:60px 0;
+}
+.image-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+	margin:30px 0;
+}
+.images{
+	background-color:red;
+	width:100%;
+	height:400px;
+}
+/*----------------chef------------------*/
+.chef-sec{
+	background-color:gray;
+	padding:60px 0;
+}
+.chef-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+	margin:30px 0;
+}
+.chef-info{
+	display:flex;
+	justify-content:space-between;
+}
+.chefs{
+	background-color:red;
+	width:30%;
+	height:300px;
+}
+/*---------------map----------------*/
+.map-secc{
+	background-color:gray;
+	padding:60px 0;
+}
+.map-title{
+	background-color:red;
+	width:50%;
+	height:50px;
+	margin:30px 0;
+}
+.map{
+	background-color:red;
+	width:100%;
+	height:400px;
+	margin:30px 0;
+}
+.contact-info{
+	display:flex;
+	justify-content:space-between;
+}
+.contact-details{
+	background-color:red;
+	width:40%;
+	height:400px;
+}
+.cont-details{
+	background-color:red;
+	width:50%;
+	height:400px;
+}
+/*----------------link----------------------*/
+.link-sec{
+	background-color:black;
+	padding:60px 0;
+}
+.link-info{
+	display:flex;
+	justify-content:space-between;
+	gap:20px;
+}
+.link-content{
+	background-color:red;
+	width:30%;
+	height:300px;
+}
+/*----------------footer--------------*/
+.footer-sec{
+	background-color:gray;
+	padding:40px 0;
+}
+.footer-info{
+	display:flex;
+	justify-content:center;
+}
+.footer-details{
+	background-color:red;
+	width:40%;
+	height:100px;
+}
